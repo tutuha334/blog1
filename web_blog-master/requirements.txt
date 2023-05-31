@@ -1,0 +1,4 @@
+gunicorn 
+django == 2.2
+django-cors-headers
+whitenoise == 3.3.0
